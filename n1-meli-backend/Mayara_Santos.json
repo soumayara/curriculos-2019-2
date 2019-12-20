@@ -1,0 +1,83 @@
+{
+    "nome_completo":"Mayara Aparecida Santos",
+    "o_que_eu_quero":"Quero poder fazer a diferença, e ajudar a minha comunidade",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "hhttps://www.linkedin.com/in/mayarasantos/",
+    "link_github":"https://github.com/soumayara",
+    "email": "soumayara@outlook.com",
+
+    "um_pouco_sobre_mim":[
+        "Eu tenho 26 anos, sou Ariana, extremamente simpática", 
+        "Iniciei minha carreira como design gráfico em 2011, depois me formei em Design Digital e venho migrando para o digital ", 
+        "Fanática por Harry Potter, adoro jogar pokemonGo e assistir os barbixas",
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Design Gráfica",
+            "empresa":"Sociedade Bíblica do Brasil",
+            "periodo":"Mar/2014 a Nov/2019",
+            "atividades_desenvolvidas": "Diagramação, posts para as redes sociais,
+            gerenciamento do site; jornada do Cliente com Salesforce Marketing Cloud, Planejamento de Mídias de Socias
+            Gerenciamento e Criação de Portais Institucional/WP, Análise do perfil do usuário e comportamento,Google Analytics para relatórios,"
+            "link": null
+        },
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Design Gráfico",
+            "instituicao":"Etec Carapicuíba",
+            "periodo":"Ago/2010 a Dez/2011",
+            "resumo_conhecimentos_aprendidos": "Criação de materiais impressos, diagramação."
+        },
+        {
+            "curso": "Bacharel em Design Digital",
+            "instituicao":"Universidade Anhembi Morumbi",
+            "periodo":"Jun/2014 a Jun/2018",
+            "resumo_conhecimentos_aprendidos": "Criação de materiais digitais, Iot, Programação web, Arduíno, Js, HTML, UX, UI, Arquitetura da Informação"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso Intensivo de UX",
+            "instituicao":"Mergo UX",
+            "resumo_conhecimentos_interesses": "Métodos de Processos de Criação, Design Sprint e jornada do usuário"
+        },
+        {
+            "interesse_evento_curso": "Formação em Back End",
+            "instituicao":"Reprograma",
+            "resumo_conhecimentos_interesses": "Lógica de Programação, Js, Node, e banco de Dados Mongo db"
+        },
+        {
+            "interesse_evento_curso": "Google Analytics Básico-Avançado",
+            "instituicao":"Google Academy",
+            "resumo_conhecimentos_interesses": "Análise de métricas, resultados, sessões, rastreio de link, e relatórios"
+        },
+              
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"PACOTE ADOBE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 9},
+        {"habilidade_ferramenta":"UI DESIGN", "pontuacao": 9},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"SALESFORCE MARKETING CLOUD", "pontuacao": 9},
+        {"habilidade_ferramenta":"GOOGLE ANALYTICS", "pontuacao": 9},
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 8},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 8},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 8},
+        {"habilidade_ferramenta":"SCRUM/SQUAD", "pontuacao": 8},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 7},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 7},
+        {"habilidade_ferramenta":"NODE", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 6},
+        {"habilidade_ferramenta":"FTP", "pontuacao": 6},
+        {"habilidade_ferramenta":"HTML", "pontuacao":5},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 5},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 3},
+    ]
+}
